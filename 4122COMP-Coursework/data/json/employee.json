@@ -1,0 +1,5 @@
+{"id":1, "imgsrc":"staffimg01.jpg", "firstname":"Scott", "surname":"MacDonald", "role":"Managing Director/Review Writer", "biographyhref":"bio1.html", "email":"scottMac@reviewGO.co.uk","phone":"07388918187" }
+{"id":2, "imgsrc":"staffimg02.jpg", "firstname":"Denise", "surname":"Lowe", "role":"Human Resources", "biographyhref":"bio2.html", "email":"DeniseL@reviewGO.co.uk","phone":"07655432167" }
+{"id":3, "imgsrc":"staffimg03.jpg", "firstname":"Karen", "surname":"Kelly", "role":"Finance Manager", "biographyhref":"bio3.html", "email":"KarenfromFinance@reviewGO.co.uk","phone":"07998123215" }
+{"id":4, "imgsrc":"staffimg04.jpg", "firstname":"Miguel", "surname":"Rodriguez", "role":"Gaming Critic/Review Writer", "biographyhref":"bio4.html", "email":"MiguelR@reviewGO.co.uk","phone":"07184352008"}
+{"id":3, "imgsrc":"staffimg05.jpg", "firstname":"Howard", "surname":"Duck", "role":"Field Agent", "biographyhref":"bio5.html", "email":"Duck-Howard@reviewGO.co.uk","phone":"07987601928" }
